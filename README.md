@@ -2,7 +2,7 @@
 
 Shanghai University of Finance and Economics
 
-E-mail: hailillya1@gmail.com (personal), clintwyd@outlook.com 
+E-mail: clintwyd@outlook.com
 
 Phone: (+86) 13818286797
 
