@@ -1,4 +1,4 @@
-# Yuandong Wu (Clint Wu)
+# Clint Wu
 
 Shanghai University of Finance and Economics
 
