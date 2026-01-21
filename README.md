@@ -2,10 +2,11 @@
 
 Shanghai University of Finance and Economics
 
-E-mail: clintwyd@outlook.com
+E-mail: *clintwyd@outlook.com*
 
-Phone: (+86) 13818286797
+Phone: *(+86) 13818286797*
 
+I'm a undergrad in Datascience. I'm proficient in Chinese and English. I use Python.
 
 
 
